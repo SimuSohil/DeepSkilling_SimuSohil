@@ -1,0 +1,9 @@
+Big O Notation:
+The big O notation is the way to describe how fast an algorithm is or how slow an algorithm is based on how much
+data the algorithm processes.
+
+Some common Big O Notations include:
+1. O(1) - Constant Time (For looking at the first item in a list or an array)
+2. O(n) - Linear Time (Look through all the items in an array for finding an element)
+3. O(log n) - Logarithmic Time (search an item in a list/array by splitting it into halves)
+4. O(n^2) - Quadratic Time (Nested loops where we compare each and every element with one another)
